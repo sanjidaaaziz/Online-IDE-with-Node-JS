@@ -3,4 +3,4 @@ The Integrate Development Environment (IDE) provides an environment in which to 
 
 Interface:
 
-![Screenshot (1272)](https://user-images.githubusercontent.com/83781242/224624142-67dc7f17-722c-41c2-88dd-c48111e1a8f4.png
+![Screenshot (1272)](https://user-images.githubusercontent.com/83781242/224624243-64d0890c-7996-439d-9372-b60033b98484.png)
